@@ -36,3 +36,6 @@ body{
 #to-do-form input:focus,#to-do-form button:focus{
 outline: none;
 }
+button:hover{
+  box-shadow: 2px 2px 3px white,-2px -2px 3px white;
+}
